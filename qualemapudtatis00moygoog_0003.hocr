@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qualemapudtatis00moygoog_0003.png"; bbox 0 0 1077 1444; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 405 711 672 735">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 405 711 672 735">
+     <span class='ocr_line' id='line_1_1' title="bbox 405 711 672 735; baseline -0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 405 711 490 732; x_wconf 49' lang='lat' dir='ltr'>&amp;athal-n</span> <span class='ocrx_word' id='word_1_2' title='bbox 506 711 580 735; x_wconf 56' lang='lat' dir='ltr'>&amp;1quoe</span> <span class='ocrx_word' id='word_1_3' title='bbox 594 711 672 735; x_wconf 56' lang='lat' dir='ltr'>ffihrarg</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 501 760 577 769">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 501 760 577 769">
+     <span class='ocr_line' id='line_1_2' title="bbox 501 760 577 769; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 501 760 538 769; x_wconf 62' lang='lat' dir='ltr'>mou</span> <span class='ocrx_word' id='word_1_5' title='bbox 548 760 577 769; x_wconf 68' lang='lat' dir='ltr'>ruz</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 384 794 694 807">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 384 794 694 807">
+     <span class='ocr_line' id='line_1_3' title="bbox 384 794 694 807; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 384 794 574 807; x_wconf 71' lang='lat' dir='ltr'>SALISEURY</span> <span class='ocrx_word' id='word_1_7' title='bbox 602 794 694 807; x_wconf 74' lang='lat' dir='ltr'>FUND.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 357 855 414 883">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 357 855 414 883">
+     <span class='ocr_line' id='line_1_4' title="bbox 357 855 407 867; baseline 0.02 -3"><span class='ocrx_word' id='word_1_8' title='bbox 357 855 369 864; x_wconf 74' lang='lat' dir='ltr'>{u</span> <span class='ocrx_word' id='word_1_9' title='bbox 383 855 407 867; x_wconf 60' lang='lat' dir='ltr'>mss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 376 872 414 883; baseline -0.053 0"><span class='ocrx_word' id='word_1_10' title='bbox 376 872 414 883; x_wconf 55' lang='lat' dir='ltr'>ten-‚s</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 170 64 946 1327">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 170 64 946 1327">
+     <span class='ocr_line' id='line_1_6' title="bbox 170 64 946 1327; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 170 64 946 1327; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
